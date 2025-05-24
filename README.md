@@ -13,7 +13,7 @@ This project provides a tool to predict binding affinity (Ki in nM) of small mol
 CSV file with a `smiles` column:
 
 ```
-smiles
+SMILES (#case sensitive)
 CC(=O)OC1=CC=CC=C1C(=O)O
 CN1CCC(CC1)CN2C(=O)C=CC2=O
 ```
