@@ -36,4 +36,5 @@ CN1CCC(CC1)CN2C(=O)C=CC2=O,1.7
 MIT License
 
 ## Citation
-If you use this model, please cite it using the Zenodo DOI.
+If you use this model, please cite it using our Zenodo doi : https://doi.org/10.5281/zenodo.15502139
+
