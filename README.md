@@ -9,6 +9,22 @@ This project provides a tool to predict binding affinity (Ki in nM) of small mol
 
 ## Usage
 
+## Clone the Repository
+
+To get started, first clone this repository:
+
+```bash
+git clone https://github.com/uzairamu/DeepDopamineNet.git
+cd DeepDopamineNet
+
+## Install Dependencies
+
+Create a Python environment (recommended) and install the required packages:
+
+```
+pip install -r requirements.txt
+
+
 ### Input Format
 CSV file with a `smiles` column:
 
