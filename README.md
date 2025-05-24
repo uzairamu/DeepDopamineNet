@@ -3,7 +3,7 @@
 This project provides a tool to predict binding affinity (Ki in nM) of small molecules (in SMILES format) against the dopamine D2 receptor (D2R).
 
 ## Files
-- `predictor_cli.py`: Command-line script for batch prediction.
+- `ddnet.py`: Command-line script for batch prediction.
 - `requirements.txt`: Dependencies needed to run the script.
 - `example_input.csv`: Sample input file with SMILES.
 
