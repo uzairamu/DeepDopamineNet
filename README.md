@@ -19,6 +19,9 @@ cd DeepDopamineNet
 ## Install Dependencies
 
 Create a Python environment (recommended) and install the required packages:
+python -m venv ddnet
+source ddnet/bin/activate  
+pip install -r requirements.txt
 
 ```
 
