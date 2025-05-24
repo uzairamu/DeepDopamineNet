@@ -7,7 +7,6 @@ This project provides a tool to predict binding affinity (Ki in nM) of small mol
 - `requirements.txt`: Dependencies needed to run the script.
 - `example_input.csv`: Sample input file with SMILES.
 
-## Usage
 
 ## Clone the Repository
 
@@ -22,7 +21,7 @@ cd DeepDopamineNet
 Create a Python environment (recommended) and install the required packages:
 
 ```
-pip install -r requirements.txt
+
 
 
 ### Input Format
