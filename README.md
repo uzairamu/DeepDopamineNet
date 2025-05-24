@@ -20,7 +20,7 @@ CN1CCC(CC1)CN2C(=O)C=CC2=O
 
 ### Run Prediction
 ```bash
-python predictor_cli.py --input example_input.csv --output predictions.csv
+python ddnet.py --input example_input.csv --output predictions.csv
 ```
 
 ### Output
