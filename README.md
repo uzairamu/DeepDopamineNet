@@ -1,4 +1,4 @@
-# D2R-KiPredictor
+# D2R-Ki Predictor
 
 This project provides a tool to predict binding affinity (Ki in nM) of small molecules (in SMILES format) against the dopamine D2 receptor (D2R).
 
