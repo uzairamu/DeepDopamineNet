@@ -50,6 +50,44 @@ CC(=O)OC1=CC=CC=C1C(=O)O,2.5
 CN1CCC(CC1)CN2C(=O)C=CC2=O,1.7
 ```
 
+### 🖥️ Graphical User Interface (GUI) – Beginner-Friendly
+Prefer a simple point-and-click interface? We’ve got you covered! A standalone GUI version is available for users who prefer not to use the terminal.
+(Note currently we only have GUI version for Linux users)
+
+To use the GUI, download the file "deepdopaminenet.tar.xz" from this repo; or run
+
+```
+wget https://github.com/uzairamu/DeepDopamineNet/raw/main/deepdopaminenet.tar.xz
+
+```
+
+Extract the Files
+
+```
+tar -xf deepdopaminenet.tar.xz
+cd deepdopaminenet
+
+```
+Run the installer script
+
+```
+chmod +x installer.sh
+./installer.sh
+
+```
+This script will:
+
+Set up the application environment
+
+Install all necessary dependencies
+
+Add a desktop shortcut to your Applications menu
+
+Launch the App
+
+After installation, you can launch DeepDopamineNet from your Applications menu like any other app.
+
+
 ## License
 MIT License
 
