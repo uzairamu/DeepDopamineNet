@@ -68,6 +68,18 @@ tar -xf deepdopaminenet.tar.xz
 cd deepdopaminenet
 
 ```
+
+Install dependencies
+
+```
+
+sudo apt-get install python3-tk 
+pip install pydantic==2.10.6
+pip install gradio
+
+```
+
+
 Run the installer script
 
 ```
